@@ -39,7 +39,7 @@ def temperature_converter():
         print(f"{temperature}°F is equal to {result}°C")
 
 # Run the converter
-if __name__ == "__main__":
+if __name__ == "__main__":   # chatgpt prompt for this
     temperature_converter()
 
     
